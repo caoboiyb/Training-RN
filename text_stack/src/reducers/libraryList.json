@@ -1,0 +1,47 @@
+[
+    {
+        "id" : 0,
+        "title": "Webpack",
+        "description": "Webpack is a module"
+    },
+    {
+        "id" : 1,
+        "title": "React",
+        "description": "React makes it painless to create interactive UI"
+    },
+    {
+        "id" : 2,
+        "title": "Redux",
+        "description": "Redux is a predictable state"
+    },
+    {
+        "id" : 3,
+        "title": "React-Redux",
+        "description": "React-redux is a official set of bindings"
+    },
+    {
+        "id" : 4,
+        "title": "Swift",
+        "description": "How to make iOS app"
+    },
+    {
+        "id" : 5,
+        "title": "Java",
+        "description": "Long boring and ..."
+    },
+    {
+        "id" : 6,
+        "title": "ESLint",
+        "description": "ESLint is an open source JavaScript"
+    },
+    {
+        "id" : 7,
+        "title": "Babel",
+        "description": "Babel has support for the lastest version of JS"
+    },
+    {
+        "id" : 8,
+        "title": "Axios",
+        "description": "Make HTTP request for the browser and node"
+    }
+]
